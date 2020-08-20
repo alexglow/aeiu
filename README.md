@@ -1,7 +1,7 @@
 aeiu
 ====
 
-Online home of Mutagen, a half-serious lens for looking at the world and ourselves. Its mythology is the Aeiu Society.
+Online home of MVTAGEN, a half-serious lens for looking at the world and ourselves. Its mythology is the Aeiu Society.
 Check out the wiki: https://github.com/alexglow/aeiu/wiki
 
 ### files
